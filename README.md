@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="./file:///C:/Users/qaleesya/Downloads/tenor.gif" width="500" style="border-radius:10px;"/>
+  
+![Image](https://github.com/user-attachments/assets/cd507ff5-d40a-4927-af84-dd04d56abca6)
+
 </p>
