@@ -1,5 +1,4 @@
 <p align="center">
-  
-![Image](https://github.com/user-attachments/assets/cd507ff5-d40a-4927-af84-dd04d56abca6)
+  <img width="1200" height="919" alt="Image" src="https://github.com/user-attachments/assets/3bc22873-818d-480b-abe7-3f7a8b16b59c" />
 
-</p>
+
